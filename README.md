@@ -1,7 +1,7 @@
 # Discord-Music-Bot
 In order to use the bot, you first need to create a heroku app. 
 # What to Do
-Sign up for it if you need to.
+Sign up for Heroku to Make the bot 24/7
 
 
 [Heroku Website](https://id.heroku.com/login)
