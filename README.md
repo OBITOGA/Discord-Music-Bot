@@ -1,6 +1,5 @@
-# Discord-Music-Bot
-In order to use the bot, you first need to create a heroku app. 
-# What to Do
+# How to Set Up Music Bot
+
 Create a Bot on the [Developer Portal](https://discord.com/developers/applications) on Discord and make an application and create the name and description for the bot.
 
 
