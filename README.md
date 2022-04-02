@@ -1,3 +1,11 @@
+Table of contents
+=================
+
+<!--ts-->
+   * [How to Set Up](#How to Set Up Music Bot)
+   * [How to Make Bot 24/7](How to Make the Bot 24/7)
+
+
 # How to Set Up Music Bot
 
 Create a Bot on the [Developer Portal](https://discord.com/developers/applications) on Discord and make an application and create the name and description for the bot.
